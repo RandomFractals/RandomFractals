@@ -21,3 +21,5 @@ We make dataViz 📈 devTools 🛠️ for kids 🧒👧, devs 👨‍💻👩‍
 
 
 ✨✨✨ the repos you like, use, or learned something new from below:
+
+![Random Fractals Github Stats](https://github-readme-stats.vercel.app/api?username=RandomFractals&show_icons=true&title_color=f33&icon_color=03c3fc&text_color=fca903&bg_color=333&include_all_commits=true&count_private=true)
