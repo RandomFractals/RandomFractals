@@ -12,11 +12,12 @@ We make dataViz 📈 devTools 🛠️ for kids 🧒👧, devs 👨‍💻👩‍
 - 💬 Ask me about anything
 - 📫 My twity & linkedin DMs are open
 - 😄 Pronouns: `they`
-- ⚡ Fun fact: I use [#dataPixy](https://twitter.com/search?q=%23dataPixy&src=recent_search_click&f=live) handle for some of my online dev profiles, posts, and public forums b/c it has 4 things I like: data, Pi, X & Y, all in 8 chars 😂  
+- ⚡ Fun fact: I use [#dataPixy](https://twitter.com/search?q=%23dataPixy&src=recent_search_click&f=live) 🧚‍♂️ for my online dev profiles & posts b/c it has 4 things I like: data, Pi, X & Y, all in 8 chars 😂  
 
 ✍️ https://dev.to/tarasnovak
 🔗 https://www.linkedin.com/in/tarasnovak/
 🐦 https://twitter.com/TarasNovak
+☕️ https://ko-fi.com/datapixy
 
 
 ✨✨✨ the repos you like, use, or learned something new from below:
