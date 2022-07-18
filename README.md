@@ -17,6 +17,7 @@ We make dataViz 📈 devTools 🛠️ for kids 🧒👧, devs 👨‍💻👩‍
 ✍️ https://dev.to/tarasnovak
 🔗 https://www.linkedin.com/in/tarasnovak/
 🐦 https://twitter.com/TarasNovak
+📚 https://observablehq.com/@randomfractals
 ☕️ https://ko-fi.com/datapixy
 
 
