@@ -6,11 +6,9 @@ Our works: https://marketplace.visualstudio.com/publishers/RandomFractalsInc
 
 We make dataViz 📈 devTools 🛠️ for kids 🧒👧, devs 👨‍💻👩‍💻, data scientists 🧑‍🔬👩‍🔬 & world 🌐 peace ☮️! ✌️
 
-- 🔭 Currently working on [Tabular Data Viewer 🀄](https://github.com/RandomFractals/tabular-data-viewer)
-- 🌱 Learning [Teams Toolkit](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview)
 - 👯 Looking to collaborate on building better [#dataTools](https://twitter.com/hashtag/dataTools?src=hashtag_click) in general
 - 💬 Ask me about anything
-- 📫 My twity & linkedin DMs are open
+- 📫 My twitter & linkedin DMs are open
 - 😄 Pronouns: `they`
 - ⚡ Fun fact: I use [#dataPixy](https://twitter.com/search?q=%23dataPixy&src=recent_search_click&f=live) 🧚‍♂️ for my online dev profiles & posts b/c it has 4 things I like: data, Pi, X & Y, all in 8 chars 😂  
 
