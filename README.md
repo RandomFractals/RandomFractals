@@ -1,21 +1,23 @@
 ### Hi there 👋
 
-My name is Taras Novak. Random Fractals Inc. is our OSS projects umbrella ☂️ org.
+My name is Taras Novak. [Random Fractals Inc.](https://twitter.com/search?q=%23RandomFractalsInc&src=typed_query&f=live) is our indy projects umbrella ☂️ org.
 
-Our works: [https://marketplace.visualstudio.com/publishers/RandomFractalsInc](https://marketplace.visualstudio.com/publishers/RandomFractalsInc)
+We make data notebooks 📚, data viz 📈 and geo data 🗺️ dev tools 🛠️ for kids 🧒👧, devs 👨‍💻👩‍💻, data scientists 🧑‍🔬👩‍🔬 and world 🌐 peace ☮️! ✌️
 
-We make dataViz 📈 devTools 🛠️ for kids 🧒👧, devs 👨‍💻👩‍💻, data scientists 🧑‍🔬👩‍🔬 & world 🌐 peace ☮️! ✌️
+Our published [Data Tools](https://twitter.com/search?q=(%23DataTools)%20(from%3ATarasNovak)&src=typed_query) 🛠️ in VS Code Marketplace:
 
-- 👯 Looking to collaborate on building better [#dataTools](https://twitter.com/hashtag/dataTools?src=hashtag_click) in general
-- 💬 Ask us anything
-- 📫 Our twitter & linkedin DMs are open
-- 😄 Pronouns: `they`
+📥 [https://marketplace.visualstudio.com/publishers/RandomFractalsInc](https://marketplace.visualstudio.com/publishers/RandomFractalsInc)
 
+New [Pro Data Tools](https://twitter.com/search?q=(%23ProDataTools)%20(from%3ATarasNovak)&src=typed_query&f=top) 🔬 for our [**Pro** sponsors](https://github.com/sponsors/RandomFractals) 💖 on GitHub:
+
+🧙‍♂️ [https://randomfractals.github.io/pro-data-tools](https://randomfractals.github.io/pro-data-tools/#pro-data-tools)
+
+---
+
+🔗 [https://www.linkedin.com/in/tarasnovak](https://www.linkedin.com/in/tarasnovak/)<br>
+🐦 [https://twitter.com/TarasNovak](https://twitter.com/TarasNovak)<br>
+🐘 [http://vis.social/@dataSamurai](http://vis.social/@dataSamurai)<br>
+📚 [https://observablehq.com/@randomfractals](https://observablehq.com/@randomfractals)<br>
 ✍️ [https://dev.to/tarasnovak](https://dev.to/tarasnovak)
-🔗 [https://www.linkedin.com/in/tarasnovak/](https://www.linkedin.com/in/tarasnovak/)
-🐦 [https://twitter.com/TarasNovak](https://twitter.com/TarasNovak)
-📚 [https://observablehq.com/@randomfractals](https://observablehq.com/@randomfractals)
-☕️ [https://ko-fi.com/datapixy](https://ko-fi.com/datapixy)
 
-
-✨✨✨ our data tools repositories you like or use below:
+✨✨✨ the data tools repositories you like or use below 🙏
