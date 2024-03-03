@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Taras Novak. [Random Fractals Inc.](https://vis.social/tags/RandomFractalsInc) is our indy projects umbrella ☂️ org.
+Our name is Taras Novak. [Random Fractals Inc.](https://vis.social/tags/RandomFractalsInc) is our indy projects umbrella ☂️ org.
 
 We make data notebooks 📚, data viz 📈 and geo data 🗺️ dev tools 🛠️ for kids 🧒👧, devs 👨‍💻👩‍💻, data scientists 🧑‍🔬👩‍🔬 and world 🌐 peace ☮️! ✌️
 
